@@ -1,1 +1,1 @@
-# intro-golang
+# Let explore our journey with Golang
