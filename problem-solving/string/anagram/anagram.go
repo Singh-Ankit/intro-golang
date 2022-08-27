@@ -38,6 +38,11 @@ func Approach1_Map(str1 string, str2 string) bool {
 	return true
 }
 
+/*func Approach2_Sort(str1 string, str2 string) bool {
+
+	return false
+}*/
+
 func main() {
 	var inpu_str1 string = "listen"
 	var inpu_str2 string = "silent"
